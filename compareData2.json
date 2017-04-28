@@ -1,0 +1,18 @@
+{
+"data": [
+    {
+      "Criteria": "Speed",
+      "name1": "Good",
+      "name2": "Bad",
+    },
+    {
+	"Criteria": "Mileage",
+      "name1": "Average",
+      "name2": "Good",
+    },
+    {
+	"Criteria": "AirBags",
+      "name1": "True",
+      "name2": "True",
+    }]
+}

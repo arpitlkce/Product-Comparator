@@ -1,0 +1,22 @@
+{
+"data": [
+    {
+      "Name": "Renault Duster",
+      "type": "Diesel,Automatic,15.2KPL",
+      "price": "11.67"
+    },
+    {
+      "Name": "Verna",
+      "type": "Diesel,Automatic,20.2KPL",
+      "price": "9.67"
+    },
+    {
+      "Name": "Maruti",
+      "type": "Diesel,Automatic,23.2KPL",
+      "price": "6.67"
+    },{
+      "Name": "Honda City",
+      "type": "Diesel,Automatic,13.2KPL",
+      "price": "13.67"
+    }]
+}
